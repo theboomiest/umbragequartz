@@ -3,13 +3,13 @@ title: Welcome to Umbrage
 ---
 ## [Return to Umbrage Homepage](https://umbrage.world)
 
-**The war was not going well.**
+#### The war was not going well.
 
 At least not for House Morgeau.
 
 [[Duke William Morgeau]] grew increasingly desperate as the front line swelled closer and closer to his manor in [[New Reikland]]. His forces exhausted and diminished, his council vain and conspiratorial.
 
-**The Duke delved into the occult for any power that would answer.**
+#### The Duke delved into the occult for any power that would answer.
 
 Eventually, one did.
 

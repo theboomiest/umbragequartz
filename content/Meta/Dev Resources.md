@@ -6,5 +6,5 @@
 * https://www.fantasynamegenerators.com/norman-names.php
 
 **Website:**
-* umbrage.world - website domain
+* [umbrage.world](https://umbrage.world) - website domain
 * https://github.com/jackyzha0/quartz - free alternative to publish Obsidian notes to website

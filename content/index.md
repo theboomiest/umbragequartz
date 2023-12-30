@@ -1,6 +1,8 @@
 ---
 title: Welcome to Umbrage
 ---
+### [Return to the Umbrage Homepage](umbrage.world)
+
 **The war was not going well.**
 
 At least not for House Morgeau.

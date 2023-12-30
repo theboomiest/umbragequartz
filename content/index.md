@@ -1,9 +1,9 @@
 ---
 title: Welcome to Umbrage
 ---
-## [Return to Umbrage Homepage](https://umbrage.world)
+# [Return to Umbrage Homepage](https://umbrage.world)
 
-**The war was not going well.**
+#### **The war was not going well.**
 
 At least not for House Morgeau.
 
@@ -11,13 +11,9 @@ At least not for House Morgeau.
 
 The Duke delved into the occult for any power that would answer.
 
-**Eventually, one did.**
-
-<hr>
+#### **Eventually, one did.**
 
 The soldiers fell where they stood, regardless of which sigil blazoned their flags. The valley was consumed by a [[Eldritch Fog|strange fog]]. The members of council Morgeau perished; decapitated, their skulls strewn across the valley. The skulls now smolder where they lay, the only motes of light in the valley’s brume.
-
-<hr>
 
 The legend of the cursed valley of [[New Reikland]] spread across the nearby territories. Tempting anyone foolhardy or desperate enough for a taste of whatever power the lord unleashed. 
 

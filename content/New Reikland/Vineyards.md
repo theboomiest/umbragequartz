@@ -1,0 +1,1 @@
+[[New Reikland]] was famous across the kingdom for its quality wine. Certainly the grapes withered on the vine once the [[Eldritch Fog]] overtook the valley.

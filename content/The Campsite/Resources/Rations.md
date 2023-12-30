@@ -1,0 +1,1 @@
+Food and water to sustain the people of [[The Campsite]]. The fog above filters out the sunlight, preventing farming within the camp. Sustenance must come from the valley outside the campfire's influence.

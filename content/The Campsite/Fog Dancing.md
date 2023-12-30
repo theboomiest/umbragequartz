@@ -1,0 +1,3 @@
+>I can't rightly say which mad cricket was the first to do this... Playing with fire, you are. I should know...
+
+A ritual involving drinking a waterskin filled with condensed [[Eldritch Fog]] and dancing in the fog at the edge of camp. Assuming the dancer survives the process, they return to camp altered... but diminished.

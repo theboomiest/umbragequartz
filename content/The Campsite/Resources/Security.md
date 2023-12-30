@@ -1,0 +1,1 @@
+Mainly consisting of armed personnel, Security is a measure of the Campsite's ability to defend itself and its resources. Security directly affects the chance and severity of invasions.

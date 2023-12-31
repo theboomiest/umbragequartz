@@ -1,0 +1,1 @@
+A humanoid once connected to nature that entered the fog but never found sanctuary. Its primal magic as eroded as its mind, it nonetheless still seeks reprieve from the fog's torment.

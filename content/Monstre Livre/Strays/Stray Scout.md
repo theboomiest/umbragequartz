@@ -1,0 +1,1 @@
+A humanoid of considerable dexterity that entered the fog but never found sanctuary. Its armor and weaponry as eroded as its mind, it nonetheless still seeks reprieve from the fog's torment.

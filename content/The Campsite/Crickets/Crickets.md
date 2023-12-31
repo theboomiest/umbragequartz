@@ -2,5 +2,6 @@
 
 %% Begin Waypoint %%
 - [[Argus the Firewatch]]
+- [[Génie Le Blanc]]
 
 %% End Waypoint %%

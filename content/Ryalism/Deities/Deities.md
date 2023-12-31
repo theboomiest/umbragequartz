@@ -1,15 +1,7 @@
 %% Begin Waypoint %%
-- **Ersatz Children**
-	- [[Bolgrius Feindre]]
-	- [[Brezaran Feindre]]
-	- [[Edelmir Feindre]]
-	- [[Sybille Feindre]]
+- **[[Ersatz Children]]**
 - [[Erthu Ryal]]
-- **Lineal Children**
-	- [[Anfrie Ryal]]
-	- [[Gerold Ryal]]
-	- [[Godehilde Ryal]]
-	- [[Rainalt Ryal]]
+- **[[Lineal Children]]**
 - [[Melina Ryal]]
 
 %% End Waypoint %%

@@ -1,1 +1,1 @@
-The greater political power that governs [[House Morgeau]] and numerous other Dukedoms.
+The greater political power that governs [[House Morgeau]] and numerous other dukedoms.

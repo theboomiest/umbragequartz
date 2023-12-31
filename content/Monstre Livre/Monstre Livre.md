@@ -1,8 +1,5 @@
 %% Begin Waypoint %%
-- **Strays**
-	- [[Stray Druid]]
-	- [[Stray Scout]]
-	- [[Stray Warrior]]
+- **[[Strays]]**
 
 %% End Waypoint %%
 

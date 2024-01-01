@@ -15,6 +15,6 @@ The Duke delved into the occult for any power that would answer.
 
 The soldiers fell where they stood, regardless of which sigil blazoned their flags. The valley was consumed by a [[Eldritch Fog|strange fog]]. The members of council Morgeau perished; decapitated, their skulls strewn across the valley. The skulls now smolder where they lay, the only motes of light in the valley’s brume.
 
-The legend of the cursed valley spread across the [[Lumeren Kingdom]], tempting anyone foolhardy or desperate enough for a taste of whatever power the lord unleashed. [[Ryalism|Ryalist]] fundamentalists converged on New Reikland to purify the blasphemy at its source. Cultists and madmen sought a firsthand glimpse into the eldritch.
+The legend of the cursed valley spread across the [[Lumeren Kingdom]], tempting anyone foolhardy or desperate enough for a taste of whatever power the duke unleashed. [[Ryalism|Ryalist]] fundamentalists converged on New Reikland to purify the blasphemy at its source. Cultists and madmen sought a firsthand glimpse into the eldritch.
 
 None whom have entered the miasma have yet returned.

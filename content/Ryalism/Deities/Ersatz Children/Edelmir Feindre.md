@@ -2,7 +2,7 @@ Deity | Summary
 -- | --
 Gender | Male
 Domains | Law, Truth, Chaos
-Appearance | Humanoid, sharply dressed in deep purple. His face is a marbled mask of white and black.
+Depiction | Humanoid, sharply dressed in deep purple. His face is a marbled mask of white and black.
 Followers | Jesters, Ersatz
 
 The youngest of the ersatz children, Edelmir was formed by Melina and Erthu from the flaws in a cut diamond and the sound of a headsman's axe.

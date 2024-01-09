@@ -1,7 +1,7 @@
 ---
 title: Welcome to Umbrage
 ---
-## [Return to Umbrage Homepage](https://umbrage.world)
+## [🏠Return to Umbrage Homepage](https://umbrage.world)
 
 #### The war was not going well.
 

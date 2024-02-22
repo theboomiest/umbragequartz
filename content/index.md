@@ -18,5 +18,3 @@ The soldiers fell where they stood, regardless of which sigil blazoned their fla
 The legend of the cursed valley spread across the [[Lumeren Kingdom]], tempting anyone foolhardy or desperate enough for a taste of whatever power the duke unleashed. [[Ryalism|Ryalist]] fundamentalists converged on New Reikland to purify the blasphemy at its source. Cultists and madmen sought a firsthand glimpse into the eldritch.
 
 None whom have entered the miasma have yet returned.
-
-This is a test line

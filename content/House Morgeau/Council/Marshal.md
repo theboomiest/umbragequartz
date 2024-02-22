@@ -1,0 +1,2 @@
+{placeholder}
+The marshal would be in charge of the military affairs of the duchy. They could advise the duke on matters of defense, strategy, and the overall state of the armed forces. This role might also involve organizing military campaigns and overseeing the training of soldiers.

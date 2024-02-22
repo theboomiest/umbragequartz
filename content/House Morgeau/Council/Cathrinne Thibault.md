@@ -1,0 +1,2 @@
+{placeholder}
+The chancellor would handle administrative and diplomatic matters. They might be responsible for managing the duchy's records, drafting documents, and handling diplomatic relations with other nobles or foreign powers.
